@@ -1,0 +1,31 @@
+{
+  "name": "S&L Grunt",
+  "title": "Simple and light front-end Grunt boilerplate",
+  "url": "https://github.com/nighthavvk",
+  "author": "Maks Charuk",
+  "copyright": "2016",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nighthavvk"
+  },
+  "devDependencies": {
+    "connect-livereload": "~0.2.0",
+    "grunt": "~0.4.1",
+    "grunt-autoprefixer": "^3.0.3",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "grunt-contrib-sass": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-includes": "^0.5.1",
+    "grunt-newer": "^1.1.1",
+    "grunt-open": "~0.2.0",
+    "grunt-spritesmith": "^6.3.0",
+    "grunt-svg-sprite": "^1.2.19",
+    "matchdep": "~0.1.2"
+  }
+}

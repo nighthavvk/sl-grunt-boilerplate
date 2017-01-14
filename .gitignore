@@ -1,0 +1,11 @@
+# npm dependency directories
+node_modules
+
+# npm logs
+npm-debug.log
+
+# sass cache directory
+.sass-cache/
+
+# mac system files
+.DS_Store
